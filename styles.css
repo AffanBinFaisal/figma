@@ -26,3 +26,16 @@ h2 {
      text-align: center;
      color: white;
 }
+
+.features-container{
+  display: block;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+#features-main-container{
+  display: flex;
+  background-color:#FCEFEF;
+}
